@@ -12,20 +12,10 @@ html, body {
   text-align: center;
   font-size: 1.5em;
   cursor: pointer;
+  color: white;
+  background-color: rgb(20, 8, 187);
 }
 
-.seeList:hover {
-  background-color: #CFF2F2;
-}
-
-.seeList {
-  background-color: #E5F2F2;
-}
-
-.createNew {
-  background-color: #FBFBC9;
-}
-
-.createNew:hover {
-  background-color: #EAEA9D;
+.button:hover {
+  background-color: #5553b9;
 }

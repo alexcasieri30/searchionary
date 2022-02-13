@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Shizuru&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Shizuru', cursive;
+}
+.flashcard{
+    display: flex
+    justify-content: flex-start
+
+    width:
+    margin:
+
+}

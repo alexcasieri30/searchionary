@@ -1,19 +1,19 @@
 {
 
     "manifest_version": 2,
-    "name": "Flashionary",
+    "name": "Searchionary",
     "version": "1.0",
   
-    "description": "Adds a button to the task bar which allows you to add and save flash cards",
-    "homepage_url": "https://github.com/ossd-sp22/flashionary",
+    "description": "enter a word and get a definition of the word",
+    "homepage_url": "https://github.com/ossd-sp22/searchionary",
     "icons": {
-      "48": "icons/flashionary-48.png"
+      "48": "icons/searchionary-48.png"
     },
   
     "browser_action": {
       "default_icon": "images/flash_icon.png",
-      "default_title": "Your Flashcards",
-      "default_popup": "popup/flashcards.html"
+      "default_title": "Your word and definition",
+      "default_popup": "popup/searchionary.html"
     }
   	
   }

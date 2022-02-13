@@ -1,0 +1,19 @@
+{
+
+    "manifest_version": 2,
+    "name": "Flashionary",
+    "version": "1.0",
+  
+    "description": "Adds a button to the task bar which allows you to add and save flash cards",
+    "homepage_url": "https://github.com/ossd-sp22/flashionary",
+    "icons": {
+      "48": "icons/flashionary-48.png"
+    },
+  
+    "browser_action": {
+      "default_icon": "icons/flashionary-32.png",
+      "default_title": "Your Flashcards",
+      "default_popup": "popup/flashcards.html"
+    }
+  	
+  }

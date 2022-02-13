@@ -1,2 +1,0 @@
-example word
-example definition

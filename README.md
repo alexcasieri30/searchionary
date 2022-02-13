@@ -1,2 +1,3 @@
-# flashionary
-A flashcard-inspired extension that allows user to pick a word and add a definition/explanation to it
+# searchionary
+
+The user can search up a word in an input box and the extension gives a dictionary definition of the word

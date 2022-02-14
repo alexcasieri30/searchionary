@@ -4,16 +4,24 @@
     "name": "Searchionary",
     "version": "1.0",
   
-    "description": "enter a word and get a definition of the word",
+    "description": "Searches the dictionary for the given word inputted by the user",
     "homepage_url": "https://github.com/ossd-sp22/searchionary",
     "icons": {
       "48": "icons/searchionary-48.png"
     },
   
+    "permissions": [
+      "activeTab"
+    ],
+  
     "browser_action": {
       "default_icon": "icons/img.png",
-      "default_title": "Your word and definition",
+      "default_title": "Searchionary",
       "default_popup": "popup/searchionary.html"
-    }
+    },
+  
+    "web_accessible_resources": [
+      
+    ]
   	
   }

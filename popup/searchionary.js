@@ -1,5 +1,5 @@
 // add click event listener for when the submit button is clicked
-document.getElementById("submit").addEventListener("click", function(){ 
+document.getElementById("search").addEventListener("click", function(){ 
     const word = document.getElementById("word").value;
     searchWord(word);
 });

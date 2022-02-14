@@ -1,1 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Courier+Prime:wght@700&display=swap');
 
+p {
+    font-family: 'Courier Prime', monospace;
+}
+
+#search {
+    font-family: 'Courier Prime', monospace;
+}

@@ -12,6 +12,6 @@ function searchWord(word){
     if (alphaCheck == true && word.length > 0){
         // navigate to URL of merriam webster page for the given word inputted by the user
         const URL = `https://www.merriam-webster.com/dictionary/${word}`;
-        window.open(URL, "_blank");
+        window.open(URL, "wFormx", "width=800,height=600,location=no,menubar=no,status=no,titilebar=no,resizable=no,");
     }
 }
